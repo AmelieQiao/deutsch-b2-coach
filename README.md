@@ -1,6 +1,8 @@
 # Deutsch B2 Coach
 
-A private study system for German B2 exam preparation.
+Using Claude code as a coach: 
+
+A personal study system for German B2 exam preparation.
 
 ## Purpose
 This repository is designed to help assess my current level, estimate the gap to my target scope, and support step-by-step learning with continuous tracking.
