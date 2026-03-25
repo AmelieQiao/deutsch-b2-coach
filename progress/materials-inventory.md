@@ -1,6 +1,6 @@
 # Materials Inventory
 
-Last updated: 2026-03-17
+Last updated: 2026-03-25
 
 This file indexes all **real** study materials currently present under `materials/` and how we should use them for:
 - **baseline assessment**
@@ -31,6 +31,11 @@ Legend (labels per file):
 - **`materials/A2/vocab/A2_Wortliste_Goethe.pdf`**
   - **labels**: targeted practice material; reference material
   - **recommended usage**: use for quick vocabulary coverage checks and to fill basic lexical gaps that block reading/writing; later use for spaced review around weak topics.
+
+- **`materials/A2/reading/A2_Lesen-Schreiben.pdf`** (Hueber: *Deutsch üben — Lesen & Schreiben A2*, ISBN 978-3-19-517493-0)
+  - **labels**: targeted practice material; reference material
+  - **recommended usage**: thematic A2 **reading + writing** workbook (114 pp.): letters, home, food, health, work, leisure, travel, newspaper excerpts; **Lösungen** in appendix. Use for **daily** structured Lesen/Schreiben after exam-style blocks; pick units A1→H3 by weak topic.
+  - **contents (TOC)**: A *Ich und du*; B *Zu Hause*; C *Kochen oder Essen gehen?*; D *Hübsch, fit und gesund*; E *Lernen und Beruf*; F *Freizeit und Feiertage*; G *Fahren und Reisen*; H *Aus Zeitung und Buch*.
 
 ---
 

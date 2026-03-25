@@ -41,6 +41,29 @@ For each topic:
   - `sessions/2026-03-17/grammar-summary.md`
   - `sessions/2026-03-17/session-notes.md`
 
+### Adjektivdeklination: schwach (nach *der/die/das/die*)
+- **status**: improving
+- **notes**: Table order fixed: rows **nom1, akk4, dat3, gen2**; cols **m, n, f, pl**.
+- **links**
+  - `progress/declension-display-order.md`
+  - `sessions/2026-03-26/adjektiv-schwach-drills.md`
+  - `sessions/2026-03-26/grammar-summary.md` (contains summary section)
+
+### Adjektivdeklination: gemischt (nach *ein-/kein-* + Possessiv)
+- **status**: improving
+- **notes**: Key contrast: *ein gut(er/es)* in Nom m / Nom+Akk n; Dativ fem uses **-en** (*einer guten Frau*).
+- **links**
+  - `progress/declension-display-order.md`
+  - `sessions/2026-03-26/adjektiv-gemischt-drills.md`
+  - `sessions/2026-03-26/mistakes.md`
+
+### Relativsatz + Präposition (*von denen*, *mit dem*, *in denen*, …)
+- **status**: improving
+- **notes**: Plural Dativ → **denen**; case chosen by preposition + antecedent; verb at clause end.
+- **links**
+  - `sessions/2026-03-26/grammar-summary.md`
+  - `sessions/2026-03-26/session-notes.md`
+
 ---
 
 ## Reading topics (exam-oriented)
@@ -55,10 +78,11 @@ For each topic:
 
 ### Intensive reading (sentence-by-sentence, A2 → B1)
 - **status**: in progress (started 2026-03-26)
-- **notes**: MC scores can overstate comprehension; build real lexis + clause reading.
+- **notes**: **Order:** exam-style full text + questions **first**; intensive **after** answers checked. MC scores can overstate comprehension.
 - **links**
   - `sessions/2026-03-26/reading-intensive.md`
   - `sessions/2026-03-26/session-notes.md`
+  - `progress/session-routine.md`
 
 ---
 
