@@ -24,7 +24,14 @@ This repository is designed to help assess my current level, estimate the gap to
 6. Summarize grammar rules, patterns, and memory aids
 7. Save all progress into structured records
 
+## How to use
+
+- Step 1: Clone the repo to your local
+- Step 2: feed your claude code CLI or your IDE (such as Cursor) the whole local repo
+- Step 3: follow your agent from that on
+
 ## Repository structure
+
 - `progress/` for scope, baseline, and long-term tracking
 - `sessions/` for individual study session records
 - `materials/` for exam papers and study resources
@@ -38,7 +45,8 @@ This repository is designed to help assess my current level, estimate the gap to
 - Writing materials
 - Grammar materials
 
-## Notes
-This is a private learning system adapted from a study workflow idea and customized for my own German B2 preparation needs.
+## Licence and Notes
+MIT. Build on top of others. Share to improve.
 
+This is a private learning system adapted from a study workflow idea from @chenran818 who use claude code as a coach, and eventually pass the CFP. Here I customized the system for my own German B2 preparation needs.
 
